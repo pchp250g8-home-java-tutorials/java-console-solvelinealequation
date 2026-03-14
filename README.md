@@ -8,7 +8,7 @@ The program does the following:
     1. All coefficients are equal to zero. The phrase "Solution - any number" will be displayed on the screen.
     2. The coefficient "a" is zero, but "b" is not. In this case, the message "The equation has no solutions" will be displayed.
     3. In all other cases, the solution calculated using the formula "x=-b/a" will be displayed on the screen. 
-Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code etitor).
+Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code editor).
 
 
 SolveLinealEquation. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы.
